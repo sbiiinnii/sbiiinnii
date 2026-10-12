@@ -1,6 +1,8 @@
 <!-- 🎀 Welcome Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFB7C5,50:FFDDE5,100:FFF0F5&height=200&section=header&text=Welcome%20to%20Seobin%27s%20GitHub&fontSize=32&fontColor=8A4358&animation=fadeIn&fontAlignY=40&desc=Linux%20%7C%20Cloud%20%7C%20Automation&descSize=16&descAlignY=67" width="100%" />
+<br>
+  <img src="./assets/hellokittylove.gif" width="150" alt="Hello Kitty GIF" />  
 </div>
 
 <br>
