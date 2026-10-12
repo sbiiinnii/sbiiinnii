@@ -100,7 +100,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <sub>🎀 Learning, practicing, and growing every day. ☁️</sub>
-</div> 
