@@ -21,8 +21,8 @@
 
 ---
 
-<!--  Tech Stack  -->
-<h3 align="center">🩷 Tech Stack 🩷</h3>
+<!-- Tech Stack -->
+<h3 align="center"> Tech Stack </h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
