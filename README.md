@@ -81,7 +81,7 @@
 
   <br><br>
 
-  <a href="https://github.com/sbiiinnnii/management-fee-alert">
+  <a href="https://github.com/sbiiinnii/management-fee-alert">
     <img src="https://img.shields.io/badge/View_Project-DB7093?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
