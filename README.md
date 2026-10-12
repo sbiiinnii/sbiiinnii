@@ -10,7 +10,7 @@
 <!-- 🎀 Hello Kitty -->
 <div align="center">
   <img src="./assets/hellokittylove.gif" width="150" alt="Hello Kitty GIF" />
-  <h3>🎀 Hello, I'm Seobin! 🎀</h3>
+  <h3> Hello, I'm Seobin! </h3>
   <p>
     리눅스 기반 서버 구축과 시스템 관리에 관심을 가지고<br>
     실습과 자동화 프로젝트를 통해 인프라 역량을 쌓고 있습니다.
@@ -21,7 +21,7 @@
 
 ---
 
-<!-- ✨ Tech Stack ✨ -->
+<!--  Tech Stack  -->
 <h3 align="center">🩷 Tech Stack 🩷</h3>
 
 <div align="center">
@@ -42,8 +42,8 @@
 
 ---
 
-<!-- 📚 Currently Learning -->
-<h3 align="center">📚 Currently Learning 📚</h3>
+<!--  Currently Learning -->
+<h3 align="center"> Currently Learning </h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -54,8 +54,8 @@
 
 ---
 
-<!-- 🛠 Tools -->
-<h3 align="center">🛠 Tools 🛠</h3>
+<!--  Tools -->
+<h3 align="center"> Tools </h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
@@ -67,8 +67,8 @@
 
 ---
 
-<!-- 🚀 Projects -->
-<h3 align="center">🚀 Projects 🚀</h3>
+<!--  Projects -->
+<h3 align="center"> Projects </h3>
 
 <div align="center">
   <h4>🔔 Management Fee Alert</h4>
@@ -90,8 +90,8 @@
 
 ---
 
-<!-- 📫 Contact -->
-<h3 align="center">📫 Contact 📫</h3>
+<!--  Contact -->
+<h3 align="center"> Contact </h3>
 
 <div align="center">
   <a href="mailto:binlove0821@naver.com">
