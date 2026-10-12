@@ -15,7 +15,6 @@
     리눅스 기반 서버 구축과 시스템 관리에 관심을 가지고<br>
     실습과 자동화 프로젝트를 통해 인프라 역량을 쌓고 있습니다.
   </p>
-
 </div>
 
 <br>
@@ -104,4 +103,4 @@
 
 <div align="center">
   <sub>🎀 Learning, practicing, and growing every day. ☁️</sub>
-</div> 이거 보여줘
+</div> 
