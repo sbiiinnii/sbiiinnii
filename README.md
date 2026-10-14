@@ -72,7 +72,7 @@
 
 <div align="center">
   <h4>🔔 Management Fee Alert</h4>
-  <p>Ubuntu 서버에서 관리비 납부 알림을 자동화하는 프로젝트</p>
+  <p>관리비 납부 알림을 자동화하는 프로젝트</p>
 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
@@ -88,7 +88,7 @@
   <br><br><br>
 
   <h4>🌐 Linux 3-Tier Web / WAS / DB</h4>
-  <p>Ubuntu 환경에서 Web, WAS, DB 서버를 분리하여 구축한 3-Tier 인프라 프로젝트</p>
+  <p>Web, WAS, DB 서버를 분리하여 구축한 3-Tier 인프라 프로젝트</p>
 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
