@@ -84,6 +84,23 @@
   <a href="https://github.com/sbiiinnii/management-fee-alert">
     <img src="https://img.shields.io/badge/View_Project-DB7093?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <br><br><br>
+
+  <h4>🌐 Linux 3-Tier Web / WAS / DB</h4>
+  <p>Ubuntu 환경에서 Web, WAS, DB 서버를 분리하여 구축한 3-Tier 인프라 프로젝트</p>
+
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" />
+
+  <br><br>
+
+  <a href="https://github.com/sbiiinnii/web-was-db-project.git">
+    <img src="https://img.shields.io/badge/View_Project-DB7093?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 <br>
